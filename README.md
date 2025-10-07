@@ -157,13 +157,8 @@ The model will automatically be saved to disk whenever a new minimum validation 
 
 ## 📚 Citation
 If you use VeGA in your research, please cite:
-```bibtex
-@article{xx,
-  title={xx},
-  author={xx},
-  year={xx}
-}
-```
+https://doi.org/10.1021/acs.jcim.5c01606
+
 
 
 ## 📞 Contact
